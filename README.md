@@ -15,8 +15,8 @@ Bu proje, JavaScript kullanılarak geliştirilmiş bir quiz uygulamasını içer
 Uygulamanın arayüzü, kullanıcı dostu ve görsel açıdan çekici bir şekilde tasarlanmıştır. Soruların altında, kullanıcıların süreyi görmelerini sağlayan bir süre göstergesi bulunur. Süre azaldıkça, yeşil bir çubuk giderek küçülür, kullanıcıya kalan süreyi gösterir.
 
 ## Ekran Görüntüleri
+![Quiz Uygulaması](https://github.com/talha3755/QuizApp/blob/main/Foto%C4%9Fraflar/1.png)
 
-![1]([quiz_screenshot](https://github.com/talha3755/QuizApp/blob/main/Foto%C4%9Fraflar/1.png)
 
 Bu ekran görüntüsü, uygulamanın nasıl göründüğünü göstermektedir.
 
