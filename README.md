@@ -16,8 +16,8 @@ Uygulamanın arayüzü, kullanıcı dostu ve görsel açıdan çekici bir şekil
 
 ## Ekran Görüntüleri
 ![Quiz Uygulaması](https://github.com/talha3755/QuizApp/blob/main/Foto%C4%9Fraflar/1.png)
-
-
+![Quiz Uygulaması](https://github.com/talha3755/QuizApp/blob/main/Foto%C4%9Fraflar/2.png)
+![Quiz Uygulaması](https://github.com/talha3755/QuizApp/blob/main/Foto%C4%9Fraflar/3.png)
 Bu ekran görüntüsü, uygulamanın nasıl göründüğünü göstermektedir.
 
 Proje, JavaScript, HTML ve CSS kullanılarak geliştirilmiştir. İhtiyaçlarınıza ve tercihlerinize göre, arayüzü dilediğiniz gibi özelleştirebilirsiniz.
